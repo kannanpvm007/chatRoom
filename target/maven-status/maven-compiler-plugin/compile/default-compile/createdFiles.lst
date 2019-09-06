@@ -1,0 +1,6 @@
+com\kgisl\chat\websocketdemo\model\ChatMessage$MessageType.class
+com\kgisl\chat\websocketdemo\model\ChatMessage.class
+com\kgisl\chat\websocketdemo\controller\WebSocketEventListener.class
+com\kgisl\chat\websocketdemo\config\WebSocketConfig.class
+com\kgisl\chat\websocketdemo\WebsocketDemoApplication.class
+com\kgisl\chat\websocketdemo\controller\ChatController.class
